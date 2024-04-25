@@ -1,4 +1,16 @@
-# Fundus-images-segmentation-using-Attention-VggUnet3+  
+Les défis de la segmentation du disque optique (OD) et de la cupule optique (OC):   
+
+- Les images médicales sont obtenues à partir de différentes modalités d’imagerie médicale et sont fréquemment affectées par divers problèmes liés au traitement d’image, tels que le bruit et les problèmes de contraste, qui posent encore des défis ouverts (Martins, Cardoso, & Soares,2020). Ces problèmes de qualité d’image compliquent davantage la segmentation du disque optique et de la cupule optique, qui est déjà un défi complexe dans le domaine de l’analyse d’images ophtalmologiques.  
+- Le disque optique présente des variations significatives en termes de forme, de taille et meme de couleur (Haider et al., 2023).   
+- Les contours de la cupule optique peuvent etre flous, avec des contrastes inégaux et discontinus en raison de la présence de vaisseaux sanguins.   
+- La qualité de l’image de fond d’œil joue un role crucial dans la précision de la segmentation. Les images du fond d’œil rétinien provenant de différentes caméras présentent des variations importantes en termes de valeurs d’intensité de pixel, et d’effets d’arrière-plan qui rendent la segmentation difficile (Sivaswamy et al., 2015).   
+--> Par la suite, pour faire face à ces défis, il est crucial de donner une attention particulière au pré-traitement des images rétiniennes afin d’améliorer la
+qualité des images et faciliter le processus de segmentation.     
+Références : 
+* Haider, A., Arsalan, M., Park, C., Sultan, H., & Park, K. R. (2023). Exploring deep feature blending capabilities to assist glaucoma screening. Applied Soft Computing, 133 , 109918.     
+* Martins, J., Cardoso, J. S., & Soares, F. (2020). Offline computer-aided diagnosis for glaucoma detection using fundus images targeted at mobile devices. Computer Methods and Programs in Biomedicine, 192 , 105341.   
+*Sivaswamy, J., Krishnadas, S., Chakravarty, A., Joshi, G., Tabish, A. S., et al. (2015). A comprehensive retinal image dataset for the assessment of glaucoma from the optic nerve head analysis. JSM Biomedical Imaging Data Papers, 2 (1), 1004.     
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
 Application du modèle Attention Unet 3+ intégrant l’apprentissage par transfert   
 
 ![tl](https://github.com/eyatab/Fundus-images-segmentation-using-Attention-VggUnet3-/assets/79045818/ea893cb8-7ddb-4b81-84b5-848af1c7c3be)   
