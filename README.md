@@ -5,9 +5,7 @@ Une augmentation de la pression intraoculaire modifie la topologie papillaire av
 Dans le cadre de ce mémoire, les travaux de recherche se sont concentrés sur l’imagerie de fond d’œil, en se focalisant spécifiquement sur la maladie du glaucome, et en privilégiant la segmentation du disque et de la cupule optique qui permet ultérieurement d’établir un diagnostic précis.   
 
 ![gl (2)](https://github.com/eyatab/Fundus-images-segmentation-using-Attention-VggUnet3-/assets/79045818/da237330-bd65-495f-8093-c3517ade7172)
-<div style="text-align:center;">
-    <img src="https://github.com/eyatab/Fundus-images-segmentation-using-Attention-VggUnet3-/assets/79045818/da237330-bd65-495f-8093-c3517ade7172" alt="Image" />
-</div>
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------     
 Les défis de la segmentation du disque optique (OD) et de la cupule optique (OC):   
