@@ -1,3 +1,12 @@
+La maladie du glaucome
+Le glaucome est une neuropathie affectant le nerf optique qui constitue la seconde cause de cécité dans les pays développés. En effet, la progression du glaucome
+est généralement mesurée à l’aide du rapport cup/disc (CDR), qui mesure le rapport entre la largeur de la cupule optique et du disque optique.   
+Une augmentation de la pression intraoculaire modifie la topologie papillaire avec pour effet d’augmenter ce rapport, permettant de mesurer l’évolution du glaucome. Cette élévation de la pression intra-oculaire est liée au dysfonctionnement du filtre (trabeculum) permettant l’évacuation du liquide circulant dans l’œil.  
+Dans le cadre de ce mémoire, les travaux de recherche se sont concentrés sur l’imagerie de fond d’œil, en se focalisant spécifiquement sur la maladie du glaucome, et en privilégiant la segmentation du disque et de la cupule optique qui permet ultérieurement d’établir un diagnostic précis.   
+
+![gl (2)](https://github.com/eyatab/Fundus-images-segmentation-using-Attention-VggUnet3-/assets/79045818/da237330-bd65-495f-8093-c3517ade7172)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------     
 Les défis de la segmentation du disque optique (OD) et de la cupule optique (OC):   
 
 - Les images médicales sont obtenues à partir de différentes modalités d’imagerie médicale et sont fréquemment affectées par divers problèmes liés au traitement d’image, tels que le bruit et les problèmes de contraste, qui posent encore des défis ouverts (Martins, Cardoso, & Soares,2020). Ces problèmes de qualité d’image compliquent davantage la segmentation du disque optique et de la cupule optique, qui est déjà un défi complexe dans le domaine de l’analyse d’images ophtalmologiques.  
